@@ -16,7 +16,7 @@ btn2.addEventListener("click",function () {
 })
 
 btn3.addEventListener("click",function () {
-    emty.innerHTML = input.value.repeat(2)
+    emty.innerHTML = input.value.repeat(10)
 })
 btn4.addEventListener("click",function () {
     emty.innerHTML = input.value.repeat(100)
